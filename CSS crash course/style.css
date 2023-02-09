@@ -1,13 +1,7 @@
-h1 {
-    background-color: aqua;
-    color: rgba(237, 52, 52, .75);
+.red {
+    color: red;
 }
 
-div {
-    width: 100%;
-    max-width: 200px;
-    border: 1px solid black;
-    font-size: 12px;
-    font-weight: 600;
-    font-family: "Roboto", sans-serif;
+.blue {
+    color: blue;
 }
