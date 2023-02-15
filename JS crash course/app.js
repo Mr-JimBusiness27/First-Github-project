@@ -1,4 +1,4 @@
-let cash = 10;
+let cash = 40;
 let price = 40;
 let difference = cash - price
 if (cash > price) {
